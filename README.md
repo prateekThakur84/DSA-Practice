@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prateekThakur84/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/prateekThakur84/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prateekThakur84/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prateekThakur84/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prateekThakur84/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prateekThakur84/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prateekThakur84/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prateekThakur84/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
