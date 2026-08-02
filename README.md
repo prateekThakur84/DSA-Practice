@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/prateekThakur84/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/prateekThakur84/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prateekThakur84/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prateekThakur84/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
@@ -99,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prateekThakur84/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prateekThakur84/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prateekThakur84/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prateekThakur84/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Backtracking
 |  |
