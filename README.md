@@ -56,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/prateekThakur84/DSA-Practice/tree/master/0486-predict-the-winner) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
