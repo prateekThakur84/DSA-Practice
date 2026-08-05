@@ -67,15 +67,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prateekThakur84/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/prateekThakur84/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/prateekThakur84/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/prateekThakur84/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
