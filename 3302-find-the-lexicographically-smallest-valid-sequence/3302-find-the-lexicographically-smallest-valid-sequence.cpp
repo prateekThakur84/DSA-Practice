@@ -1,59 +1,49 @@
 class Solution {
 public:
     vector<int> validSequence(string word1, string word2) {
-        int n = word1.size();
-        int m = word2.size();
+     int n = word1.size();
+     int m = word2.size();
 
-        // last[i] - position in word1 that can be used
-        // for word2[i] while matching the suffix exactly
+     vector<int> rightHandSideMatchLength(n,0);
 
-        vector<int> last(m,-1);
+     int rightMatched = 0;
+     int i = n-1;
+     int j=   m-1;
 
-        int j = m-1;
-
-        // match word2 from right to left
-
-        for(int i=n-1;i>=0 && j>=0; i--){
-            if(word1[i] == word2[j]){
-                last[j]=i;
-                j--;
-            }
-        }
-
-        vector<int> ans;
-
-        bool usedChange = false;
-        j=0;
-
-        // greedily select the smallest possible index
-
-        for(int i=0;i<n && j<m; i++){
-            char curr = word1[i];
-            char req = word2[j];
-
-            bool match = (curr==req);
-
-            bool canChange = !usedChange && (
-                j== m-1 || i<last[j+1]
-            );
-
-            if(match || canChange){
-                ans.push_back(i);
-
-                if(!match) usedChange = true;
-
-                j++;
-            }
-
+     while(i>=0 ){
+        if(j>= 0 && word1[i]==word2[j]){
+            // ans.push_back(i);
+            rightMatched++;
+            // i--;
+            j--;
 
         }
 
-        if(j<m){
-            return {};
+        rightHandSideMatchLength[i]=rightMatched;
+        i--;
+     }
+     vector<int> ans;
 
-        }
 
-        return ans;
-        
+     bool changePower = true;
+
+     i=0,j=0;
+
+     while(i<n && j<m){
+        if(word1[i]==word2[j]){
+            ans.push_back(i);
+            // i++;
+            j++;
+        }else if(changePower == true && i+1<n && rightHandSideMatchLength[i+1] >= m-j-1   ){
+            ans.push_back(i);
+            j++;
+            changePower = false;
+        } 
+        i++;
+
+
+     }
+
+     return j==m ? ans : vector<int> ();
     }
 };
