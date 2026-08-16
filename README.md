@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/prateekThakur84/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prateekThakur84/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateekThakur84/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/prateekThakur84/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/prateekThakur84/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/prateekThakur84/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateekThakur84/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prateekThakur84/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/prateekThakur84/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/prateekThakur84/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
 | ------- |
@@ -139,5 +142,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateekThakur84/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
