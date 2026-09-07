@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/prateekThakur84/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/prateekThakur84/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/prateekThakur84/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/prateekThakur84/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/prateekThakur84/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prateekThakur84/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/prateekThakur84/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -152,16 +153,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/prateekThakur84/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prateekThakur84/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/prateekThakur84/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/prateekThakur84/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateekThakur84/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/prateekThakur84/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/prateekThakur84/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prateekThakur84/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prateekThakur84/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/prateekThakur84/DSA-Practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
