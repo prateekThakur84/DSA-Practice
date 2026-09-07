@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prateekThakur84/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/prateekThakur84/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/prateekThakur84/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prateekThakur84/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/prateekThakur84/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/prateekThakur84/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/prateekThakur84/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prateekThakur84/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/prateekThakur84/DSA-Practice/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prateekThakur84/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
