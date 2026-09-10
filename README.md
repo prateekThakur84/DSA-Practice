@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prateekThakur84/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prateekThakur84/DSA-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prateekThakur84/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/prateekThakur84/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/prateekThakur84/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prateekThakur84/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prateekThakur84/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/prateekThakur84/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prateekThakur84/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prateekThakur84/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
