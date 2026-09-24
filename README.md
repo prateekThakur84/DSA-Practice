@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prateekThakur84/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prateekThakur84/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prateekThakur84/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prateekThakur84/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/prateekThakur84/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/prateekThakur84/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prateekThakur84/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prateekThakur84/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prateekThakur84/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prateekThakur84/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prateekThakur84/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/prateekThakur84/DSA-Practice/tree/master/3870-count-commas-in-range) |
 ## Number Theory
